@@ -27,9 +27,6 @@ git push origin <tên nhánh>
 
 ========= thêm một file mới, xử lý các conflict xảy ra ===========
 
-tạo file .txt để xử lí các conflict xảy ra
-upload file lên github 
-
 
 ======= Ngoài ra mình sẽ giới thiệu cho mọi người một số thao tác với tập lệnh git nữa =====
  
