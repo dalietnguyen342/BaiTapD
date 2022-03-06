@@ -1,1 +1,4 @@
 FILE DÙNG ĐỂ XỬ LÍ CONFLICT NẾU CÓ! 
+
+1. Viết sai tên message => git commit amend
+2. Đặt sai tên branch => git branch -m <ten branch sau khi đổi>
