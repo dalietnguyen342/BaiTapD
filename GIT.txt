@@ -1,0 +1,52 @@
+d) Quay video minh họa các thao tác với tập lệnh 
+của git để upload project lên github, 
+thêm một file mới, xử lý các conflict xảy ra.
+
+Mở Git Bash
+
+Thiết lập tài khoản cá nhân
+
+Tạo một kho chứa git
+
+Để upload file lên github:
+
+- Kiểm tra trạng thái của các nhánh trong git 
+(3 trạng thái: Commit (lưu trữ thành công), Staged (đánh dấu sẽ commit), Modified(trạng thái này tức là đã thay đổi tập tin nhưng chưa commit)))
+
+- Cập nhật hết file khi thêm, xóa sửa 
+ngoài ra bạn còn có thể sử dụng lệnh git add -a 
+
+- Commit để đẩy thông tin vừa đổi lên local respository
+
+* có thể gộp cả add và commit vào 1 lần: git commit -a -m "message"
+
+Cập nhật lên server
+
+git remote add origin <remote url>
+git push origin <tên nhánh>
+
+========= thêm một file mới, xử lý các conflict xảy ra ===========
+
+tạo file .txt để xử lí các conflict xảy ra
+upload file lên github 
+
+
+======= Ngoài ra mình sẽ giới thiệu cho mọi người một số thao tác với tập lệnh git nữa =====
+ 
+Sao chép từ một kho chứa đã tồn tại
+
+Xem số lần thay đổi
+
+NHÁNH TRONG GIT:
+
+kiểm tra nhánh
+
+tạo mới nhánh
+
+di chuyển và tạo mới
+
+chuyển nhánh
+
+đổi tên
+
+PHẦN TRÌNH BÀY CỦA EM ĐẾN ĐẤY LÀ KẾT THÚC. XIN CẢM ƠN MỌI NGƯỜI ĐÃ QUAN SÁT.
