@@ -1,4 +1,0 @@
-Viêt sai message 
-=> để thay đổi nội dung commit cần dùng git commit --amend
-Đặt sai tên branch
-=> git branch -m <tên branch mới>
